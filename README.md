@@ -1,4 +1,4 @@
-[![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
+ [![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Esra</h1>
 - 🌱 I’m currently learning **Java,python,JavaScript,Ardunio**
 
