@@ -1,8 +1,10 @@
 [![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Esra</h1>
-- 🌱 I’m currently learning **Java,python,JavaScript,Ardunio**
+- I study at Balıkesir University as a 2nd-year Computer Engineering student in Turkey.
 
 - 📫 How to reach me **eesra8352@gmail.com**
+  
+- 🌱 I’m currently learning **Java,python,JavaScript,Ardunio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
