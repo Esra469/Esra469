@@ -5,7 +5,9 @@
 - 📫 How to reach me **eesra8352@gmail.com**
 - 🌱 I’m currently learning **Al,Python,JavaScript,Ardunio**
 
+<!---
 <h3 align="left">Connect with me:</h3>
+--->
 <p align="left">
 </p>
 
