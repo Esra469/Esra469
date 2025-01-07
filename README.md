@@ -18,9 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra469&show_icons=true&locale=en&layout=compact" alt="esra469" /></p>
 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esra469&show_icons=true&locale=en" alt="esra469" /></p>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esra469&" alt="esra469" /></p>
