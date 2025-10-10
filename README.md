@@ -1,6 +1,6 @@
 [![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Esra</h1>
-- I study at Balıkesir University as a 3th-year Computer Engineering student in Turkey.**
+- I study at Balıkesir University as a 4th-year Computer Engineering student in Turkey.**
 
 - 📫 How to reach me **eesra8352@gmail.com**
 - 🌱 I’m currently learning **Al,Python,JavaScript,Ardunio**
