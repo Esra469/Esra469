@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esra</h1>
-- I study at Balıkesir University as a 4th-year Computer Engineering student in Turkey.
+ - I study at Balıkesir University as a 4th-year Computer Engineering student in Turkey.
 
 - 📫 How to reach me **eesra8352@gmail.com**
 - 🌱 I’m currently learning **Al,Python,Machine Learning,ASP.NET**
