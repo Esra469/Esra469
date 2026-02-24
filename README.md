@@ -1,10 +1,9 @@
-[![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Esra</h1>
 - I study at Balıkesir University as a 4th-year Computer Engineering student in Turkey.
 
 - 📫 How to reach me **eesra8352@gmail.com**
 - My Llinkedn account **[https://www.linkedin.com/in/esraa-%C3%A7imen-a49173253/](https://www.linkedin.com/in/esra-%C3%A7imen-a49173253/)**
-- 🌱 I’m currently learning **Al,Python,Machine Learning,Ardunio**
+- 🌱 I’m currently learning **Al,Python,Machine Learning,ASP.NET**
 
 <!---
 <h3 align="left">Connect with me:</h3>
