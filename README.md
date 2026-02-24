@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esra-%C3%A7imen-a49173253/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eesra8352@gmail.com)
 <!---
 <h3 align="left">Connect with me:</h3>
 --->
