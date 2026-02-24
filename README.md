@@ -2,9 +2,14 @@
 - I study at Balıkesir University as a 4th-year Computer Engineering student in Turkey.
 
 - 📫 How to reach me **eesra8352@gmail.com**
-- My Llinkedn account **[https://www.linkedin.com/in/esraa-%C3%A7imen-a49173253/](https://www.linkedin.com/in/esra-%C3%A7imen-a49173253/)**
 - 🌱 I’m currently learning **Al,Python,Machine Learning,ASP.NET**
 
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esra-%C3%A7imen-a49173253/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
 <!---
 <h3 align="left">Connect with me:</h3>
 --->
